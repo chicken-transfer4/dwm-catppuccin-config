@@ -1,7 +1,7 @@
 # dwm-catppuccin-config
 install instructions:
 
-edit config.def.h files to edit 
+edit config.def.h files to edit if you want to
 
 change user in slock/config.def.h to your username 
 
