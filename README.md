@@ -14,3 +14,4 @@ in config, move picom.conf to /etc/xdg/picom.conf and move .bashrc to
 /home/"user"/.bashrc
 
 also move wp/1.jpg to /home/ll/"user"/wp/1.jpg or just replace it with any wallpaper
+run the command startx to start or use a desktop manager
