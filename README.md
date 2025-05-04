@@ -5,7 +5,7 @@ edit config.def.h files to edit if you want to
 
 change user in slock/config.def.h to your username 
 
-you need the packages "xorg-server xorg-xinit linux-api-headers gcc make pkgconf feh picom libxft libxinerama terminus-font" to install (using pacman, not sure about other package
+you need the packages " feh xorg-server xorg-xinit linux-api-headers gcc make pkgconf feh picom libxft libxinerama terminus-font " to install (using pacman, not sure about other package
 managers)
 
 install dwm, st, slstatus, dmenu and slock by running  "sudo make clean install"
