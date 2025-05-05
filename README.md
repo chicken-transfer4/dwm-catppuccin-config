@@ -10,7 +10,8 @@ INSTALL INSTRUCTIONS:
 * xinitrc --> /etc/X11/xinit/xinitrc
 * .bashrc --> ~/.bashrc
 * picom.conf --> /etc/xdg/picom.conf
-* Start it by running the command startx.
+
+Start it by running the command startx
 
 Screenshots:
 
