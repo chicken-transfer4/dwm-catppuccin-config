@@ -1,4 +1,11 @@
 # dwm-catppuccin-config
+
+Screenshots:
+
+![floating.png](https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/floating.png?raw=true)
+
+![tiling.png](https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/tiling.png?raw=true)
+
 INSTALL INSTRUCTIONS: 
 * Install dependencies using "pacman -Syuu xorg-server xorg-xinit linux-api-headers gcc make pkgconf feh picom libxft libxinerama terminus-font ttf-nerd-fonts-symbols" (You will probably already have alot of these)
 
@@ -12,10 +19,3 @@ mv .bashrc mv ~/.bashrc
 mv picom.conf mv /etc/xdg/picom.conf
 
 Start it by running the command startx
-
-Screenshots:
-
-![floating.png](https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/floating.png?raw=true)
-
-![tiling.png](https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/tiling.png?raw=true)
-
