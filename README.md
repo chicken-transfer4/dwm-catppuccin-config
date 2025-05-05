@@ -11,9 +11,10 @@ managers)
 install dwm, st, slstatus, dmenu and slock by running  "sudo make clean install"
 
 in config, move picom.conf to /etc/xdg/picom.conf and move .bashrc to 
-/home/"user"/.bashrc
+/home/"user"/.bashrc and xinitrc to /etc/X11/xinit/xinitrc
 
-also move wp/1.jpg to /home/ll/"user"/wp/1.jpg or just replace it with any wallpaper
+
+also move wp to /etc/wp
 
 
 then start it by running the command startx or use a desktop manager
