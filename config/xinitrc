@@ -1,0 +1,5 @@
+#!/bin/sh
+exec picom &
+exec slstatus &
+exec feh --bg-fill /etc/wp/* &
+exec dwm
