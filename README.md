@@ -30,4 +30,4 @@ mv picom.conf mv /etc/xdg/picom.conf
 
 
 
-Start it by running the command startx
+* Start it by running the command startx
