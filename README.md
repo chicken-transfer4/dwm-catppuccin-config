@@ -18,7 +18,7 @@ also move wp to /etc/wp
 
 
 then start it by running the command startx or use a desktop manager
-![floating.png]https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/floating.png?raw=true
+![floating.png](https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/floating.png?raw=true)
 
-![tiling.png]https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/tiling.png?raw=true
+![tiling.png](https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/tiling.png?raw=true)
 
