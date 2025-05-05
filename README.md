@@ -11,6 +11,9 @@ INSTALL INSTRUCTIONS:
 * .bashrc --> ~/.bashrc
 * picom.conf --> /etc/xdg/picom.conf
 * Start it by running the command startx.
+
+Screenshots:
+
 ![floating.png](https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/floating.png?raw=true)
 
 ![tiling.png](https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/tiling.png?raw=true)
