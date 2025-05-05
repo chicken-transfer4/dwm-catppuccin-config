@@ -7,9 +7,9 @@ INSTALL INSTRUCTIONS:
 * Go into dwm,st,slock,slstatus and run "make clean install" in them
 
 * Move the files in config to the correct places:
-* xinitrc --> /etc/X11/xinit/xinitrc
-* .bashrc --> ~/.bashrc
-* picom.conf --> /etc/xdg/picom.conf
+mv xinitrc /etc/X11/xinit/xinitrc
+mv .bashrc mv ~/.bashrc
+mv picom.conf mv /etc/xdg/picom.conf
 
 Start it by running the command startx
 
