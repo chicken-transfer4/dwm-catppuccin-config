@@ -13,7 +13,12 @@ INSTALL INSTRUCTIONS:
 
 * Change "user" in slock/config.def.h to your username 
 
+
+* Edit config.def.h file if you want to
+
+
 * Go into dwm,st,slock,slstatus and run "make clean install" in them
+
 
 * Move the files in config to the correct places:
 mv xinitrc /etc/X11/xinit/xinitrc
