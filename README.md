@@ -7,7 +7,8 @@ Screenshots:
 ![tiling.png](https://github.com/chicken-transfer4/dwm-catppuccin-config/blob/main/screenshots/tiling.png?raw=true)
 
 INSTALL INSTRUCTIONS: 
-* Install dependencies (You will probably already have alot of these) using
+* Install dependencies using
+
  "pacman -Syuu xorg-server xorg-xinit linux-api-headers gcc make pkgconf feh picom libxft libxinerama terminus-font ttf-nerd-fonts-symbols"
 
 * Change "user" in slock/config.def.h to your username 
