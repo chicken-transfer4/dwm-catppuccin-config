@@ -21,8 +21,13 @@ INSTALL INSTRUCTIONS:
 
 
 * Move the files in config to the correct places:
+
 mv xinitrc /etc/X11/xinit/xinitrc
+
 mv .bashrc mv ~/.bashrc
+
 mv picom.conf mv /etc/xdg/picom.conf
+
+
 
 Start it by running the command startx
