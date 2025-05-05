@@ -17,7 +17,7 @@ INSTALL INSTRUCTIONS:
 * Edit config.def.h file if you want to
 
 
-* Go into dwm,st,slock,slstatus and run "make clean install" in them
+* Go into dwm ,st ,slstatus ,dmenu ,slock and run "make clean install" in them
 
 
 * Move the files in config to the correct places:
