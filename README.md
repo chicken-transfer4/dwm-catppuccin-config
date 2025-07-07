@@ -26,7 +26,7 @@ mv xinitrc /etc/X11/xinit/xinitrc
 
 mv .bashrc mv ~/.bashrc
 
-mv picom.conf mv /etc/xdg/picom.conf
+mv picom.conf /etc/xdg/picom.conf
 
 
 
