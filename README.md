@@ -24,7 +24,7 @@ INSTALL INSTRUCTIONS:
 
 mv xinitrc /etc/X11/xinit/xinitrc
 
-mv .bashrc mv ~/.bashrc
+mv .bashrc ~/.bashrc
 
 mv picom.conf /etc/xdg/picom.conf
 
